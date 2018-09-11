@@ -1,5 +1,5 @@
 # Stylometric-Analyzer
-Stylometric Analyzer of 2 authors. Shakespeare and Marlowe. Total 6 files are analyzed.
+Stylometric Analyzer is a platform which analyzes 2 authors, Shakespeare and Marlowe. Total 6 books are analyzed.
 
 
 1.	Implementation of tasks	
