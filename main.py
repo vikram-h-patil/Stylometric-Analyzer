@@ -1,10 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt 
 import numpy as np
-from preprocessor_29389690 import Preprocessor #importing task1 file
-from character_29389690 import CharacterAnalyser #importing task2 file
-from word_29389690 import WordAnalyser #importing task3 file
-from visualiser_29389690 import AnalysisVisualiser # importing task4 file
+from preprocessor import Preprocessor #importing task1 file
+from character import CharacterAnalyser #importing task2 file
+from word import WordAnalyser #importing task3 file
+from visualiser import AnalysisVisualiser # importing task4 file
 import sys
 
 
