@@ -4,7 +4,7 @@ Stylometric Analyzer is a platform which analyzes 2 authors, Shakespeare and Mar
 
 1.	Implementation of tasks	
 
-1.1	Task-1: Setting up the preprocessor
+          1.1	Task-1: Setting up the preprocessor
 
 In this task, the preprocessor accepts the input and tokenizes in word, punctuation and single character list. I have used regular expressions for this task. 
 
