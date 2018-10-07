@@ -29,7 +29,7 @@ Stylometric Analyzer is a platform which analyzes 2 authors, Shakespeare and Mar
 
 2.	Output screenshot	
 
-When the main file is run, the statistic data and visualizations are automatically displayed and stored in required directory. Refer teh folders for output
+When the main file is run, the statistic data and visualizations are automatically displayed and stored in required directory. Refer the folders for output
   
   
 3.	How to run program:	
