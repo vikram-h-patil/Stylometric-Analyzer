@@ -32,9 +32,10 @@ Stylometric Analyzer is a platform which analyzes 2 authors, Shakespeare and Mar
 When the main file is run, the statistic data and visualizations are automatically displayed and stored in required directory. Refer teh folders for output
   
   
-3.	How to run program	
-                    1) Run the main file (%run main_29389690)
-                    2) After approximately 30-45min, the statistic and all 4 graphs are displayed
-                    3) The statistics is stored as text file in the directory
-                    4) And the images are saved in png format.
+3.	How to run program:	
+          
+          3.1          Run the main file (%run main_29389690)
+          3.2          After approximately 30-45min, the statistic and all 4 graphs are displayed
+          3.3          The statistics is stored as text file in the directory
+          3.4          And the images are saved in png format.
 
