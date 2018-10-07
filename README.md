@@ -34,8 +34,8 @@ When the main file is run, the statistic data and visualizations are automatical
   
 3.	How to run program	
           Steps:
-          •	Run the main file (%run main_29389690)
-          •	After approximately 30-45min, the statistic and all 4 graphs are displayed
-          •	The statistics is stored as text file in the directory
-          •	And the images are saved in png format.
+          Run the main file (%run main_29389690)
+          After approximately 30-45min, the statistic and all 4 graphs are displayed
+          The statistics is stored as text file in the directory
+          And the images are saved in png format.
 
